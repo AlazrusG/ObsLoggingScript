@@ -1,0 +1,5 @@
+{
+    "python.languageServer": "None",
+    "basedpyright.analysis.extraPaths": ["C:\\Program Files\\obs-studio\\data\\obs-scripting\\64bit"],
+    "python.autoComplete.extraPaths": ["C:\\Program Files\\obs-studio\\data\\obs-scripting\\64bit"],
+}
