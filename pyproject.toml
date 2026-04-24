@@ -1,0 +1,10 @@
+[tool.basedpyright]
+
+exclude = ["**/node_modules",
+    "**/__pycache__",
+    "src/experimental",
+    "src/typestubs"
+]
+
+stubPath = "types" 
+reportUnusedCallResult = false
